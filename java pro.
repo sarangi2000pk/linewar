@@ -1,9 +1,0 @@
-public class IntToInteger {
-    public static void main(String args[]) {
-      // Initializing int variable
-      int i=100;
-      // Convert int to Integer using Integer.valueOf() method
-      Integer intObj = Integer.valueOf(i);
-      // Printing Integer
-      System.out.println("Integer is: " + intObj);
-    }
